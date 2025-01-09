@@ -52,7 +52,7 @@ const Navbar = () => {
                 PRODUCTOS
               </Link>
             </li>
-            <li className='nav-item'>
+            <li className='nav-item3'>
               <Link to="section3" smooth={true} duration={500} className='nav-links' onClick={closeMobileMenu}>
                 CONTACTO
               </Link>

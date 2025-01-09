@@ -53,7 +53,7 @@ const Cards = () => {
                 <ul className='cards_items'>
                     <CardItem 
                     src='/images/beice4.jpg'
-                    text='Nuestro local abierto al público se encuentra en Venado Tuerto, Santa Fe'
+                    text='Nuestro local abierto al público se encuentra en Belgrano 268, Venado Tuerto, Santa Fe'
                     label='¿DONDE LOS ENCUENTRO?'
                     
                     />
