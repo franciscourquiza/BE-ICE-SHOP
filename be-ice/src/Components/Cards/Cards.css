@@ -31,6 +31,7 @@
   
   .cards_items {
     margin-bottom: 24px;
+    
   }
 
   .cards_item {
@@ -99,8 +100,8 @@
   
   .cards_item_info {
     padding: 20px 30px 30px;
-    height: 85px;
-    width: 450px;
+    height: 105px;
+    width: 350px;
   }
   
   .cards_item_text {
@@ -112,6 +113,7 @@
   @media only screen and (min-width: 1200px) {
     .content_blog_container {
       width: 84%;
+      display: flex;
     }
   }
   
@@ -124,5 +126,13 @@
   @media only screen and (max-width: 1024px) {
     .cards_item {
       margin-bottom: 2rem;
+      display: flex;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .cards_item {
+      margin-bottom: 2rem;
+      display: flex;
     }
   }

@@ -40,6 +40,7 @@
 @media (max-width: 768px) {
   .slider-container .swiper-slide img {
     object-fit: cover;
+    padding-right: 10px;
     height: 320px;
     width: 195px;
   }
